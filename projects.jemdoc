@@ -1,0 +1,37 @@
+# jemdoc: menu{MENU}{projects.html}, nofooter  
+==Projects
+
+All projects are open-sourced in my \[[https://github.com/Alpha-Yang Github]\]. I prefer to do 
+something which really have an influence. And this page will be always updating. 
+
+== Char-adv-using-LID-torch
+
+There are my Pytorch codes for charactering adversarial subspace using local intrinsic dimensionality. This is a paper from Xingjun Ma publishing in ICLR'18.
+What I want to do is, performing how to crafting LID examples in a single way by Pytorch which is universally used in deep learning.
+
+- \[[assets\training_lid_log.txt training_lid_log]\]
+- \[[assets\testing_lid_log.txt testing_lid_log]\]
+
+[https://github.com/Alpha-Yang/Char-adv-using-LID-torch Find out more details about this work].
+
+== CVPR2018-Baseline-PSNRplot
+
+This is a supplementary work after I read ShanghaiTech Paper "Future Frame Prediction for Anomaly Detection – A New Baseline".
+I open source my code that can visualize the psnr image of testing videos. 
+
+[https://github.com/Alpha-Yang/CVPR2018-Baseline-PSNRplot Find out more details about this work].
+
+== cs231n-master2020
+
+This is a work that I finished the assignment of CS231N. CS231N is a very classical computer-vision course
+in Stanford University. README.md in this hub also includes the most of problems I come out and solutions to them.
+
+[https://github.com/Alpha-Yang/cs231n-master2020 Find out more details about this work].
+
+== Matlab_arrowPlot
+
+This is a work mainly for MATLAB plotting. I have sorted out two functions which can
+plot something useful during your plotting.
+
+[https://github.com/Alpha-Yang/Matlab_arrowPlot Find out more details about this work].
+\n
