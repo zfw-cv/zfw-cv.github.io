@@ -1,0 +1,52 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Wenhao Yang
+
+~~~
+{}{img_left}{https://z3.ax1x.com/2021/05/16/ggixKA.jpg}{alt text}{130}{180}
+Undergraduate\n [https://see.xidian.edu.cn/  School of Electronic Engineering] \n[https://www.xidian.edu.cn/ Xidian University (XDU)]\n
+Github: [https://github.com/Alpha-Yang Alpha-Yang]\n
+Zhihu: [https://www.zhihu.com/people/mu-yi-yang-42-66 Alpha Yang XDU]\n
+Email: /wenhaoyang.alpha/ \[@\] gmail \[DOT\] com
+~~~
+
+== About me
+I am an undergraduate student in Xidian University, majored in electronic engineering. And I have a strong interest in machine learning. Now, my research interest includes Video-level Anomaly Detection, supervised
+by Prof. [https://web.xidian.edu.cn/nnwang/ Nannan Wang], [https://ste.xidian.edu.cn/  School of Telecommunications Engineering], [https://www.xidian.edu.cn/ Xidian University (XDU)].
+My long-term goal is to make intelligent machines trustworthy. 
+- \[[assets\resume_ywh.pdf My-brief-cv]\]
+
+== Education
+- Xidian University, Bachelor in Electronic Engineering, Sep. 2018 - Now
+
+== Research
+My research interests include 
+- Machine Learning
+- Computer Vision
+
+[research.html Find out more about my research].
+
+== Awards
+- 2019 - 2020, China National Scholarship (published in [https://wap.peopleapp.com/article/6192502/6094690 people daily news]). \[[https://mp.weixin.qq.com/s/EiXs2rqc644BxuDnZ5NviQ details]\]
+- 2019 - 2020, Xidian Principle's Scholarship (only 5 awardees university-wide per year). \[[https://www.xidian.edu.cn/info/1882/44907.htm details]\]
+- 2019 - 2020, Xidian Goodix Technology Scholarship (only 1 awardee university-wide per year). 
+- 2019 - 2020, School-level outstanding student model.
+- Apr. 2020, MCM/ICM, Mathematical Contest in Modeling (Worldwide level), INFORMS Award Outstanding Winner(<0.03% only 6 awardees World-wide per year in 20,000 teams). \[[https://www.xidian.edu.cn/info/1811/41871.htm details]\] \[[https://www.comap-math.com/mcm/2020Certs/2006782.pdf certificate]\]
+- Sep. 2020, ACM-ICPC, Shaanxi Province Bronze Award. \[[assets\bronze.pdf certificate]\] 
+- Sep. 2019, The National College Student Mathematical Modeling Competition, Shaanxi Province First Prize.
+- Sep. 2019, The National College Student Mathematics Competition, Shaanxi Province First Prize.
+
+[awards.html Find out more about my awards].
+
+== Publications 
+. Shengli Zhang, Zhengpeng Duan, *Wenhao Yang*, Chenlai Qian, Yiwei You, \"iDHS-DASTS: identifying DNase I hypersensitive sites based on LASSO and stacking learning\",  Molecular Omics, 2021. \[[https://pubs.rsc.org/fi/content/articlehtml/2021/mo/d0mo00115e pub]\]
+
+[publications.html Find out more about my publications].
+
+== Projects
+- Char-adv-using-LID-torch. \[[https://github.com/Alpha-Yang/Char-adv-using-LID-torch details]\]
+- CVPR2018-Baseline-PSNRplot. \[[https://github.com/Alpha-Yang/CVPR2018-Baseline-PSNRplot details]\]
+- cs231n-master2020. \[[https://github.com/Alpha-Yang/cs231n-master2020 details]\]
+- Matlab_arrowPlot. \[[https://github.com/Alpha-Yang/Matlab_arrowPlot details]\]
+
+[projects.html Find out more about my projects].
+\n

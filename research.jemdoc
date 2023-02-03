@@ -1,0 +1,18 @@
+# jemdoc: menu{MENU}{research.html}, nofooter  
+==Research
+
+I have a wide research interests, mainly including machine learning and computer vision. I am particularly
+interested in the problem of how to construct universal and trustworthy framework for machine learning system.
+
+== Machine Learning
+
+Deep Learning \n
+Reinforcement Learning (Model-based) \n
+Adversarial Learning (Charactering adversarial samples) \n
+Weakly Supervised Learning
+
+== Computer Vision
+
+Video-Level Anomaly Detection \n
+Little Knowledge of Face photo sketch synthesis 
+\n
